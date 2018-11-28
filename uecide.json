@@ -1,0 +1,19 @@
+{
+    "name": "CapacitiveSensor",
+    "provides": "CapacitiveSensor.h",
+    "description": "Create capacitive sensors that can detect touch or proximity.",
+    "version": "0.5.1",
+    "maintainer": "Paul Stoffregen <unknown@example.com>",
+    "category": "Sensors",
+    "subcategory": "Touch",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "CapacitiveSensor.cpp": "/",
+        "CapacitiveSensor.h": "/",
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/"
+    },
+    "readme": "README.md"
+}
